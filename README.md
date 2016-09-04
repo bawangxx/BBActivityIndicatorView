@@ -3,4 +3,4 @@
 
 效果图：
 
-![image](https://raw.githubusercontent.com/bawangxx/CodeRowCount/master/image/activity.gif)
+![image](https://raw.githubusercontent.com/bawangxx/BBActivityIndicatorView/master/image/activity.gif)
